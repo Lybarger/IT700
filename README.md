@@ -205,7 +205,7 @@ Then, it shows how branches were created and merged among each other.
 3. Go to your forked repo. It should be something like `https://github.com/[your_id]/IT700`
 4. Clone it to your PC.
 5. Go to `introductions/` folder, and create a Markdown file with your last name. `[your_last_name].md`
-6. Open the file, write down any sentence into the Markdown file, and save it. 
+6. Open the file, write your name and a brief statement describing your research interests into the Markdown file, and save it. 
 7. In the command line, `git add .`
 8. `git commit -m "my name added"`
 9. `git push origin main`
