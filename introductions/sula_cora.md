@@ -1,0 +1,1 @@
+My research interests are Human-Computer Interaction, specifically privacy & security concerns in HCI online and on social media, HCI on emotions and well-being, and HCI with AI. 
