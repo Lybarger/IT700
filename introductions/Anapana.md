@@ -1,0 +1,1 @@
+My name is Vikram Reddy Anapana, and my research interests include NextG Wireless Communications specifically focused on mmWave Beamforming leveraging AI/ML and Adaptive Signal Processing for interference mitigation.
