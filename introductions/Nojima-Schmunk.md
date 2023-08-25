@@ -1,0 +1,1 @@
+Hello, my name is Kentaro Nojima-Schmunk. Now in my second semester of PhD with a concentration in Mechanical Engineering. My current research areas are in biomimicry robotics, specifically flapping wing Lighter-than-Air agents. Graduated Bachelor's with Mechanical Engineering from GMU in 2021.
