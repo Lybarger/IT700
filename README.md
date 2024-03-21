@@ -1,4 +1,4 @@
-Introduction to Git 
+Introduction to `Git` 
 ==============
 Myeong Lee and Kevin Lybarger
 -------------
