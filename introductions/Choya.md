@@ -1,0 +1,1 @@
+I am a 1st year PhD student at George Mason University, My interest area foucused on ensuring academic integrity using Machine Learning and uses of AI in education
