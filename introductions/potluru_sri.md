@@ -1,0 +1,2 @@
+# Sri Sashank Potluru
+PhD student in Information Technology at George Mason University. My research is on behavioral malware and ransomware detection running samples in a sandbox and modeling system-level API-call behavior, with a focus on generalizing to unseen families at low false-alarm rates. I'm also interested in the security of EV charging infrastructure.
