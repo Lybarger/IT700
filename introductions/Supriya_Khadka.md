@@ -1,0 +1,1 @@
+Hello, I am Supriya Khadka. I am interested in studying usable privacy and security for AI agents and companions. This is my 1st semester of my PhD. Looking forward to my journey!
