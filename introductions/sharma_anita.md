@@ -1,0 +1,1 @@
+My name is Anita Sharma. I am working on collision scenario generation in autonomous vehicles. I will be using Neural Network models along with vehicle physics.
