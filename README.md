@@ -50,10 +50,35 @@ Fork the class repository to your own GitHub account, clone your fork to your co
    3. Under **Repository access**, choose **Only select repositories** and select your fork of `IT700`. You create the fork in step A, so you may need to come back here.
    4. Under **Permissions**, set **Contents** to **Read and write**.
    5. Generate the token and copy it. GitHub displays it once and never again.
+   6. Save the token somewhere secure. The token will look like a long string of letters and numbers. Treat it like a password. Do not share it or add it to your code.
 
-   At the Git prompt, enter your GitHub username for the username and paste the token for the password. Store it in your OS credential manager when asked so you only do this once.
+5. **Use the Token with Git**
 
-   If you have the GitHub CLI installed, `gh auth login` handles all of this and is faster.
+   You do not need to enter the token anywhere immediately after creating it. Continue with the Git setup instructions. 
+   
+   Later, when you run a Git command such as: 
+   ```bash
+   git push
+   ``` 
+   Git may ask:
+   ```
+   Username for 'https://github.com':
+   ```
+   Enter your GitHub username.
+
+   Git may then ask:
+   ```bash
+   Password for 'https://github.com':
+   ```
+   Paste your Personal Access Token (PAT), not your normal GitHub password, and press Enter. When you paste a password or token into some terminals, nothing may appear on the screen. This is normal. Paste the token and press Enter.
+
+   **Alternative: GitHub CLI**
+
+   If you have GitHub CLI installed, you can instead run: 
+   ```bash
+   gh auth login
+   ```
+   and follow the prompts. The GitHub CLI will handle authentication for you.
 
 ---
 
