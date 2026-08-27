@@ -1,0 +1,1 @@
+I am a PhD student at George Mason University, specializing in natural language processing with a focus on medical applications.
