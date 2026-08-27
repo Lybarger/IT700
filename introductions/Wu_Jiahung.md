@@ -1,0 +1,1 @@
+I'm still discovering my interests. As of now, my research interests include adversarial machine learning, particularly poisoning attacks, and designing secure systems resilient to AI-enabled attacks. 
