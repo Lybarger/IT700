@@ -1,0 +1,1 @@
+My research interests include cybersecurity, digital forensics, and applying AI to automate the detection of advanced cyber threats. I am interested in using digital forensic techniques, memory analysis, and machine learning to understand malicious activity that may evade security mechanisms.
