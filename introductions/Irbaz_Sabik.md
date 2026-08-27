@@ -1,1 +1,1 @@
-My research interests are in the intersection of Natural Language Processing and Healthcare domain.
+I am a PhD student at George Mason University, specializing in natural language processing with a focus on medical applications.
