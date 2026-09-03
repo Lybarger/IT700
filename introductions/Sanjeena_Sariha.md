@@ -1,0 +1,1 @@
+Hi I am Sariha Sanjeena, and I have research interest at the intersection of AI and security. I want to classify a system as secure or not, which is still at the broader level. Other than that, my research is to enhance web security through utilizing AI. I am very happy to be in the IT700 class.
