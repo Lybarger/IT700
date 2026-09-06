@@ -1,0 +1,1 @@
+I am a first year PhD student in GMU. My research interests include AI, Machine Learning with the application on Edge Computing and Edge Intelligence.
